@@ -7,7 +7,7 @@
 - **Backend**: Django REST Framework
 - **Frontend**: React
 - **Database**: SQLite
-
+  
 ## Setup
 
 ### Backend
